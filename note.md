@@ -6,6 +6,12 @@
 	3.末行模式
 
 
+vim + filename 
+	定位到文件末尾
+vim +3 filename
+	定位到第3行
+	
+
 
 
 
