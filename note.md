@@ -22,5 +22,7 @@ vim -O file1.txt file2.txt file3.txt ... 水平打开多个文件
 vim -o file1.txt file2.txt... 垂直打开多个文件
 ctrl + w 在多个文件之间切换
 
+可视模式
+	命令模式下+ v  选择 y拷贝 d删除 p粘贴
 
 
